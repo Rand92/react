@@ -1,3 +1,21 @@
+
+# class 02
+- Number and name of feature:  ,  Display images
+Estimate of time needed to complete: an hour
+Start time: 3:00 pm
+
+Finish time: 3:30pm
+
+Actual time needed to complete: 30 min
+
+- Number and name of feature: 1,   Allow users to vote for their favorite beast
+Estimate of time needed to complete: 2 hours
+Start time: 10:00 pm
+
+Finish time: 11:00pm
+
+Actual time needed to complete: an hour
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +86,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
