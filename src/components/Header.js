@@ -4,7 +4,7 @@ import React, { Component } from 'react'
     render() {
         return (
             <>
-              <h1>Horned Animals </h1>  
+              <h1 style={{display: "flex",justifyContent: "center"}}>Horned Animals </h1>  
             </>
         )
     }

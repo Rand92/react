@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import HornedBeast from './HornedBeast'
-// import Data from './Data.json'
+import Form from './Data.json'
 
 class Main extends Component {
     render() {
@@ -14,6 +14,7 @@ class Main extends Component {
                   
                    
                   })  
+
                } 
               
             </div>
